@@ -10,9 +10,12 @@ body {
   animation: fall 6s linear infinite;
   background-color: #000b21;
   color: white;
-  font-family: cursive;
+  font-family: Charmonman;
   background-position: center;
   font-size: 30px;
+  line-height: 2;
+  font-style: bold;
+  text-align: center;
 }
 /* Charmonman */
 
