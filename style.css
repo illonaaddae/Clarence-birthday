@@ -22,6 +22,8 @@ input {
   background: radial-gradient(white, #035589);
   box-shadow: 0 0 20px 5px rgb(27, 45, 63);
   font-size: medium;
+  color: black;
+  font-weight: bold;
   width: 200px;
   height: 50px;
   top: 65%;
