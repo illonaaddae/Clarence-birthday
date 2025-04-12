@@ -17,6 +17,18 @@ body {
   font-style: bold;
   text-align: center;
 }
+
+input {
+  background: radial-gradient(white, #026558);
+  box-shadow: 0 0 20px 5px rgb(27, 45, 63);
+  font-size: medium;
+  width: 200px;
+  height: 50px;
+  top: 65%;
+  left: 75%;
+  animation: ketan 5s infinite;
+  border-radius: 10%;
+}
 /* Charmonman */
 
 #Z {
